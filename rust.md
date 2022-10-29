@@ -18,6 +18,13 @@
 - https://dhghomon.github.io/easy_rust/
 - https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - https://stevedonovan.github.io/rust-gentle-intro/
+- https://serokell.io/blog/learn-rust
+
+## Examples
+
+- https://www.tutorialspoint.com/rust/rust_helloworld_example.htm
+- https://github.com/rust-lang/rust-by-example
+- https://linuxhint.com/rust-programming-code-examples/
 
 ## Projects
 
